@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ExamenAndroidApp</string>
+
+    <string name="mpa_btn_jugar">Jugar</string>
+    <string name="mpa_btn_puntuaciones">Puntuaciones</string>
+    <string name="mpa_btn_configurar">Configurar</string>
+    <string name="mpa_btn_salir">Salir</string>
+
+
+    <string name="ja_btn_siguiente">Siguiente</string>
+
+    <string name="j2a_tV_escribe">Escribe aquí la palabra</string>
+    <string name="j2a_btn_validad">Validar</string>
+    <string name="j2a_tV_palabrasAcertadas">Palabras acertadas</string>
+
+
+    <string name="ca_tV_idioma">Idioma</string>
+    <string name="ole" />
+
+</resources>
